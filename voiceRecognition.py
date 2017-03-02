@@ -6,12 +6,10 @@ r = sr.Recognizer()
 
 
 
-
-
-
 def voiceToText():
 	with sr.Microphone() as source:
-		#print("Say something!")
+		print("Say something!")
+		
 		audio = r.listen(source)
 
 	try:

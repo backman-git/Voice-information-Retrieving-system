@@ -1,0 +1,920 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rec",
+				"recordVoice"
+			],
+			[
+				"voic",
+				"voiceToText"
+			],
+			[
+				"ma",
+				"maxV"
+			],
+			[
+				"ca",
+				"candidates"
+			],
+			[
+				"s",
+				"sLen"
+			],
+			[
+				"st",
+				"str2"
+			],
+			[
+				"str",
+				"str2"
+			],
+			[
+				"la",
+				"lazy_pinyin"
+			],
+			[
+				"c",
+				"csv"
+			],
+			[
+				"l",
+				"licenseKeyFormatting"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"tar",
+				"targetNode"
+			],
+			[
+				"en",
+				"endStr"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"e",
+				"endWord"
+			],
+			[
+				"wor",
+				"wordList"
+			],
+			[
+				"wo",
+				"wordList"
+			],
+			[
+				"lev",
+				"levelTable"
+			],
+			[
+				"le",
+				"levelTable"
+			],
+			[
+				"b",
+				"beginWord"
+			],
+			[
+				"in",
+				"inBound"
+			],
+			[
+				"hi",
+				"highScore"
+			],
+			[
+				"go",
+				"goodChild"
+			],
+			[
+				"g",
+				"goodChild"
+			],
+			[
+				"h",
+				"highestScorePattern"
+			],
+			[
+				"wordListl",
+				"wordListLen2"
+			],
+			[
+				"ge",
+				"getScore"
+			],
+			[
+				"an",
+				"ansSheet"
+			],
+			[
+				"w",
+				"wordList"
+			],
+			[
+				"patt",
+				"patternGen"
+			],
+			[
+				"pa",
+				"patternDic"
+			],
+			[
+				"f",
+				"fLen"
+			],
+			[
+				"is",
+				"isSubsequence"
+			],
+			[
+				"isc",
+				"isSubsequence"
+			],
+			[
+				"ne",
+				"newNr"
+			],
+			[
+				"n",
+				"neighbor"
+			],
+			[
+				"cl",
+				"cloneGraph"
+			],
+			[
+				"un",
+				"UndirectedGraphNode"
+			],
+			[
+				"pt",
+				"pt2"
+			],
+			[
+				"p",
+				"pt1"
+			],
+			[
+				"num",
+				"nums1"
+			],
+			[
+				"nu",
+				"nums1"
+			],
+			[
+				"so",
+				"Solution"
+			],
+			[
+				"d",
+				"DP_T"
+			],
+			[
+				"se",
+				"setPAir"
+			],
+			[
+				"work",
+				"workerL"
+			],
+			[
+				"r",
+				"rAry"
+			],
+			[
+				"use",
+				"used"
+			],
+			[
+				"he",
+				"headLimit"
+			],
+			[
+				"gen",
+				"genlexicalOrderWithHead"
+			],
+			[
+				"bit",
+				"bitValue"
+			],
+			[
+				"idx",
+				"idxR"
+			],
+			[
+				"id",
+				"idxL"
+			],
+			[
+				"sor",
+				"sortedNums"
+			],
+			[
+				"sp",
+				"sptrL1"
+			],
+			[
+				"gp",
+				"gptrL1"
+			],
+			[
+				"gpt",
+				"gptrL1"
+			],
+			[
+				"sum",
+				"sumPair"
+			],
+			[
+				"su",
+				"sumPair"
+			],
+			[
+				"k",
+				"kSmallestPairs"
+			],
+			[
+				"nums",
+				"nums2"
+			],
+			[
+				"va",
+				"valuePair"
+			],
+			[
+				"pr",
+				"profit"
+			],
+			[
+				"lo",
+				"localMaxMinTable"
+			],
+			[
+				"local",
+				"LocalMax"
+			],
+			[
+				"y",
+				"yLimit"
+			],
+			[
+				"x",
+				"xLimit"
+			],
+			[
+				"fin",
+				"findKthLargest"
+			],
+			[
+				"v",
+				"vMax"
+			],
+			[
+				"find",
+				"findMax"
+			],
+			[
+				"list",
+				"ListNode"
+			],
+			[
+				"lis",
+				"ListNode"
+			],
+			[
+				"li",
+				"ListNode"
+			],
+			[
+				"ln",
+				"LNGenerator"
+			],
+			[
+				"no",
+				"normalize"
+			],
+			[
+				"im",
+				"imageID"
+			],
+			[
+				"fea",
+				"featureFile"
+			],
+			[
+				"ex",
+				"extractFeature"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"conn",
+				"connection_string"
+			],
+			[
+				"get",
+				"getTicket"
+			],
+			[
+				"ti",
+				"ticketID"
+			],
+			[
+				"neur",
+				"NeuralNet"
+			],
+			[
+				"lin",
+				"linearFunction"
+			],
+			[
+				"compute",
+				"computeResV"
+			],
+			[
+				"neu",
+				"neurons"
+			],
+			[
+				"out",
+				"outputLayer"
+			],
+			[
+				"hidd",
+				"hiddenComputeV"
+			],
+			[
+				"inputLAyer",
+				"inputLayerRes"
+			],
+			[
+				"hid",
+				"hiddenComputeV"
+			],
+			[
+				"com",
+				"computeResV"
+			],
+			[
+				"inpu",
+				"inputLayerRes"
+			],
+			[
+				"dis",
+				"disOfRoot"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"sho",
+				"showPonit"
+			],
+			[
+				"max",
+				"maxPoint"
+			],
+			[
+				"lat",
+				"lat"
+			],
+			[
+				"da",
+				"data-role"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 714,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/java.sublime-build",
+					"Java Lintter"
+				],
+				[
+					"Packages/User/java.sublime-build",
+					"Run Java"
+				]
+			],
+			[
+				"Packages/User/java.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Backman/Desktop/voice"
+	],
+	"file_history":
+	[
+		"/Users/Backman/Desktop/voice/main.py",
+		"/Users/Backman/Desktop/voice/voiceRecognition.py",
+		"/Users/Backman/Desktop/voice/yulin.txt",
+		"/Users/Backman/Desktop/voice/chineseToWadeGilos.py",
+		"/Users/Backman/Desktop/voice/buildDomainWords.py",
+		"/Users/Backman/Desktop/voice/yulin.csv",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/Backman/Desktop/findJob/leetcode/chineseToWadeGilos",
+		"/Users/Backman/Desktop/findJob/leetcode/sol.py",
+		"/Users/Backman/Desktop/voice/test.py",
+		"/Users/Backman/AndroidStudioProjects/Find_hydrant/app/src/main/res/layout/activity_main.xml",
+		"/Users/Backman/AndroidStudioProjects/Find_hydrant/app/src/main/res/layout/radar.xml",
+		"/Users/Backman/AndroidStudioProjects/Find_hydrant/app/src/main/java/com/example/backman/find_hydrant/RadarView.java",
+		"/Users/Backman/AndroidStudioProjects/Find_hydrant/app/src/main/java/com/example/backman/find_hydrant/Radar.java",
+		"/Users/Backman/Desktop/less/tt.less",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/less.sublime-build",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/python4.sublime-build",
+		"/Users/Backman/Desktop/tt.py",
+		"/Users/Backman/Desktop/resume/Chung_Yi_Kao.tex",
+		"/Users/Backman/Desktop/sample/python/main2RemoveKid.py",
+		"/Users/Backman/Desktop/sample/python/main.py",
+		"/Users/Backman/Desktop/vrnas.no-ip.biz:6500",
+		"/Users/Backman/Desktop/custom-view/src/com/example/android/customviews/MainActivity.java",
+		"/Users/Backman/Desktop/custom-view/src/com/example/android/customviews/charting/PieChart.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/WikipediaDataSource.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/VerticalSeekBar.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/Vector.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/Utilities.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/TwitterDataSource.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/SensorsActivity.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/ScreenPositionUtility.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/Radar.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PitchAzimuthCalculator.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PhysicalLocationUtility.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableText.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableRadarPoints.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintablePosition.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintablePoint.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableObject.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableLine.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableIcon.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableGps.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableCircle.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableBoxedText.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/PaintableBox.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/NetworkDataSource.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/Matrix.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/Marker.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/MainActivity.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/LowPassFilter.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/LocalDataSource.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/IconMarker.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/DataSource.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/CameraSurface.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/CameraModel.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/CameraCompatibility.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/AugmentedView.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/AugmentedActivity.java",
+		"/Users/Backman/Desktop/AR/AR2012/ProAndroidAugmentedReality-master/Pro Android AR 9/src/com/paar/ch9/ARData.java",
+		"/Users/Backman/Desktop/1. 研究android studio 自動產生 get set",
+		"/1. 研究android studio 自動產生 get set",
+		"/Users/Backman/Desktop/resume/res1.tex",
+		"/Users/Backman/Desktop/resume/res9a.tex",
+		"/Users/Backman/Desktop/res1.tex",
+		"/Users/Backman/Desktop/AR/augmented-reality-view-master/ARView/src/com/raw/arview/RadarView.java",
+		"/Users/Backman/Desktop/AR/augmented-reality-view-master/ARView/src/com/raw/arview/DataView.java",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/java.sublime-build",
+		"/Users/Backman/Desktop/Node.java",
+		"/Users/Backman/Desktop/AR/augmented-reality-view-master/ARView/src/com/raw/arview/ARView.java",
+		"/Users/Backman/Desktop/Node.jba",
+		"/Users/Backman/Desktop/tt.java",
+		"/Users/Backman/Desktop/AR2012/cam_thread.java",
+		"/Users/Backman/Desktop/ttt.py",
+		"/Users/Backman/Desktop/kaggle/test.py",
+		"/Users/Backman/Desktop/kaggle/import numpy as np",
+		"/Users/Backman/Desktop/test.py",
+		"/Users/Backman/Desktop/linguistics/TOEIC/Things That I Do That Adults Probably Don't Do",
+		"/Users/Backman/Desktop/leetcode.py",
+		"/Users/Backman/Desktop/amazon.py",
+		"/Users/Backman/Desktop/openshift/minder/routes/addTag.js",
+		"/Users/Backman/Desktop/TOEIC/TOEIC/600 Essential Words for the TOEIC 3rd Edition/note/lesson 2",
+		"/tt.py",
+		"/Users/Backman/Desktop/t7.py",
+		"/t7.py",
+		"/Users/Backman/Desktop/test5.py",
+		"/Users/Backman/Desktop/test4.py",
+		"/Users/Backman/Desktop/test2.py",
+		"/Users/Backman/Desktop/test3.py",
+		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/test.js",
+		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/image_features_extractor.py",
+		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/search.py",
+		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/Image.js",
+		"/Users/Backman/Desktop/fooder/fooder-server/fooder/main/imageProcessCore/searcher.py",
+		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/searcher.py",
+		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/colordescriptor.py",
+		"/Users/Backman/Desktop/openshift/minder/views/findTag.jade",
+		"/Users/Backman/Desktop/fooder/fooder-server/fooder/main/RS/analysisRS.py",
+		"/Users/Backman/Desktop/fooder/fooder-server/fooder/main/RS/searcher.py",
+		"/Users/Backman/Desktop/fooder/fooder-server/fooder/main/FD/analysisFD.py",
+		"/Users/Backman/Desktop/openshift/minder/routes/findTag.js",
+		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/image.js",
+		"/Users/Backman/Desktop/openshift/minder/views/addTag.jade",
+		"/Users/Backman/Desktop/openshift/minder/package.json",
+		"/Users/Backman/Desktop/openshift/minder/app.js",
+		"/Users/Backman/Desktop/openshift/minder/model/Tag.js",
+		"/Users/Backman/tt/routes/users.js",
+		"/Users/Backman/Desktop/openshift/minder/bin/www",
+		"/Users/Backman/Desktop/openshift/df/minder/bin/www",
+		"/Users/Backman/Desktop/openshift/df/minder/server.js",
+		"/Users/Backman/Desktop/openshift/df/minder/package.json",
+		"/Users/Backman/Desktop/openshift/df/minder/bin/www.js",
+		"/Users/Backman/Desktop/openshift/df/dfd/minder/package.json",
+		"/Users/Backman/Desktop/openshift/minder/bin/www.js",
+		"/Users/Backman/Desktop/openshift/minder/minder/package.json",
+		"/Users/Backman/Desktop/openshift/minder/minder/bin/www.js",
+		"/Users/Backman/Desktop/openshift/minder/m/package.json",
+		"/Users/Backman/Desktop/openshift/minder3/m/bin/www",
+		"/Users/Backman/Desktop/openshift/minder3/m/app.js",
+		"/Users/Backman/Desktop/openshift/minder2/minder/bin/www",
+		"/Users/Backman/Desktop/openshift/minder/views/addTab.pug",
+		"/Users/Backman/Desktop/openshift/minder2/minder/views/layout.jade",
+		"/Users/Backman/Desktop/openshift/minder2/minder/app.js",
+		"/Users/Backman/Desktop/openshift/minder2/minder/routes/users.js",
+		"/Users/Backman/Desktop/openshift/minder2/minder/package.json",
+		"/Users/Backman/Desktop/openshift/minder2/minder/views/index.ejs",
+		"/Users/Backman/Desktop/openshift/minder/mongoDb/test.js",
+		"/Users/Backman/Desktop/fooder/fooder-server/voting.html",
+		"/Users/Backman/Desktop/fooder/fooder-server/server.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reText",
+			"ism",
+			"levelTable",
+			"rnadint",
+			"inv",
+			"onDataChanged",
+			"request",
+			"layout",
+			"ondraw",
+			"PointerView",
+			"setLayerToSW",
+			"init",
+			"setColor",
+			"ondraw",
+			"draw",
+			"bound",
+			"drawText",
+			"draw",
+			"physicalLocation",
+			"longitude",
+			"long",
+			"location",
+			"set",
+			"latitude",
+			"exper",
+			"tt",
+			"bitValue",
+			" ",
+			"    ",
+			"l",
+			"tagFeaturesRepo",
+			"tmpNewTagRepository",
+			"fs",
+			"addtab",
+			"upload",
+			"addTabRoute",
+			"gen",
+			"train",
+			"targetError",
+			"getCurrentError",
+			"teachLayer",
+			"train",
+			"compute",
+			"getListOfNeurons",
+			"hidden",
+			"hiddern",
+			"cout",
+			"revert_i",
+			"app_start",
+			"ram",
+			"F_CPU",
+			"MAX_TIME_COUNT",
+			"app_start",
+			"secs",
+			"sec",
+			"8 sec",
+			"MAX_ERROR_COUNT",
+			"app_start",
+			"MAX_ERROR_COUNT",
+			"MAX_TIME_COUNT",
+			"app_start()",
+			"getch",
+			"app_start",
+			"AVR_SEGMENT_OFFSET_EEPROM",
+			"eeprom",
+			"AVR_SEGMENT_OFFSET_FLASH",
+			"avr_core_watch_write",
+			"Invalid write address",
+			"avr-gcc",
+			"elf_firmware_t",
+			"'[f]'",
+			"[f]",
+			"\"f\"",
+			"f",
+			"chunk",
+			"chunks",
+			"read_hex_string",
+			"read_ihex_chunks",
+			"read_ihex_file",
+			"read_ihex_chunks",
+			"chunk",
+			"chunks",
+			"ihex_chunk_p",
+			"chunk",
+			"ihex_chunk_p",
+			"read_ihex_file"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"randint",
+			"",
+			"\\t",
+			"ptr",
+			"i"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 176.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "voice.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

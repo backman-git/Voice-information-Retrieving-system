@@ -15,6 +15,15 @@ from pypinyin import pinyin, lazy_pinyin
 import pypinyin
 import pickle
 
+
+
+DB ="all.pack"
+
+
+
+
+
+
 def editDistance(str1,str2):
 
 	dpTable=[[0 for x in range(len(str2)+1) ] for y in range(len(str1)+1 )]
@@ -44,6 +53,8 @@ def similarity(str1,str2):
 	ED=editDistance(str1,str2)
 	sLen= len(str2)
 
+
+
 	value=(float(sLen-ED)/float(sLen ) *100.0)
 
 	if 0<= value and value <=100.0 :
@@ -52,15 +63,16 @@ def similarity(str1,str2):
 		return 0
 
 
-	
+
 
 
 
 
 def domainWordsCorrector(strs,threshold):
 
+
 	candidates={}
-	geoDict=pickle.load(open("geo_WG_Dict.pack","rb"))
+	geoDict=pickle.load(open(DB,"rb"))
 
 	for obj in geoDict.keys():
 		# calculate every words's ED value.
@@ -68,17 +80,72 @@ def domainWordsCorrector(strs,threshold):
 		if value > threshold:
 			candidates[str(geoDict[obj])]=value
 
+	#DEBUG!
+	
+	for obj in candidates.keys():
+		print (obj,candidates[obj])
+	
+
+	if len(candidates.keys()) ==0:
+		return None
+
 	#find most similar one!!
 	maxV=0.0
 	result=""
-	for obj in candidates.keys():
 
+	for obj in candidates.keys():
 		if maxV < candidates[obj]:
 			maxV=candidates[obj]
 			result=str(obj)
 
+	
 	return (result,maxV)
 
 
 
 
+# database change
+def teamExtractor(rawText):
+
+
+	if rawText is None:
+		return None
+
+	# only 長度三
+	infoWords=[]
+	for idx in range(len(rawText)):
+		word3=domainWordsCorrector(rawText[idx:idx+2],80)
+		
+
+		if word3!=None:
+			infoWords.append(word3[0])
+		'''	
+		word4=domainWordsCorrector(rawText[idx:idx+4],80)
+		if word4!=None:
+			infoWords.append(word4[0])
+		'''
+	return infoWords 
+
+
+
+def domainWordExtractor(rawText):
+	
+
+
+	if rawText is None:
+		return None
+
+	# only 長度三
+	infoWords=[]
+	for idx in range(len(rawText)):
+		word3=domainWordsCorrector(rawText[idx:idx+3],70)
+		
+
+		if word3!=None:
+			infoWords.append(word3[0])
+		'''	
+		word4=domainWordsCorrector(rawText[idx:idx+4],80)
+		if word4!=None:
+			infoWords.append(word4[0])
+		'''
+	return infoWords 

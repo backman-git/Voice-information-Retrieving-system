@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"d",
+				"dlg_spec"
+			],
+			[
+				"python",
+				"python3"
+			],
+			[
 				"rec",
 				"recordVoice"
 			],
@@ -174,10 +182,6 @@
 			[
 				"so",
 				"Solution"
-			],
-			[
-				"d",
-				"DP_T"
 			],
 			[
 				"se",
@@ -403,9 +407,34 @@
 			"file": "main.py",
 			"settings":
 			{
-				"buffer_size": 714,
+				"buffer_size": 702,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "enhancer.py",
+			"settings":
+			{
+				"buffer_size": 1481,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "buildDomainWords.py",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n\n\n\n\n\n",
+			"settings":
+			{
+				"buffer_size": 6,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -500,7 +529,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 87.0,
+		"height": 104.0,
 		"last_filter": "install",
 		"selected_items":
 		[
@@ -513,7 +542,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 392.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -535,10 +564,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Backman/Desktop/voice"
+		"/C/Users/development/Desktop/voice/voice"
 	],
 	"file_history":
 	[
+		"/C/Users/development/AppData/Roaming/Sublime Text 3/Packages/User/python2.sublime-build",
+		"/C/Users/development/AppData/Roaming/Sublime Text 3/Packages/User/jade.sublime-build",
+		"/C/Users/development/Desktop/voice/voice/t.py",
+		"/C/Users/development/Desktop/voice/voice/get.py",
 		"/Users/Backman/Desktop/voice/main.py",
 		"/Users/Backman/Desktop/voice/voiceRecognition.py",
 		"/Users/Backman/Desktop/voice/yulin.txt",
@@ -662,11 +695,7 @@
 		"/Users/Backman/Desktop/openshift/minder2/minder/views/layout.jade",
 		"/Users/Backman/Desktop/openshift/minder2/minder/app.js",
 		"/Users/Backman/Desktop/openshift/minder2/minder/routes/users.js",
-		"/Users/Backman/Desktop/openshift/minder2/minder/package.json",
-		"/Users/Backman/Desktop/openshift/minder2/minder/views/index.ejs",
-		"/Users/Backman/Desktop/openshift/minder/mongoDb/test.js",
-		"/Users/Backman/Desktop/fooder/fooder-server/voting.html",
-		"/Users/Backman/Desktop/fooder/fooder-server/server.js"
+		"/Users/Backman/Desktop/openshift/minder2/minder/package.json"
 	],
 	"find":
 	{
@@ -792,7 +821,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -801,7 +830,65 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 714,
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "enhancer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1349,
+								1349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "buildDomainWords.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 338,
 						"regions":
 						{
 						},
@@ -814,8 +901,35 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -870,7 +984,7 @@
 	{
 		"height": 112.0
 	},
-	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
 	"project": "voice.sublime-project",
 	"replace":
 	{

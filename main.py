@@ -1,14 +1,17 @@
 from pypinyin import pinyin, lazy_pinyin
 import pypinyin
-from enhancer import domainWordsCorrector
+from enhancer import domainWordsCorrector , domainWordExtractor ,teamExtractor
 import speech_recognition as sr
 import sys
 
+from pywinauto.application import Application
 
 
 '''
 Functional Programming
 
+先測試 長度3的字串
+future  
 
 '''
 import time
@@ -32,14 +35,45 @@ def voiceToText():
 
 
 
-print ("說！")
-sys.stdout.flush()
-time.sleep(1)
+def outputToNP(app,word):
+	app.UntitledNotepad.Edit.type_keys(word)
+	return app
 
 
-reText=voiceToText()
 
-print (reText)
-print (domainWordsCorrector(reText,70.0))
 
+#====================================================
+
+
+
+app = Application().start("notepad.exe")
+
+#====================Voice Recognition=============================
+
+
+
+
+
+
+
+while True:
+	input("")
+	print ("請說話")
+	sys.stdout.flush()
+	rawText=voiceToText()
+	print ("rawData: ",rawText)
+	wordList=domainWordExtractor(rawText)
+	#wordList=teamExtractor(rawText)
+
+	if wordList is not None:
+
+		print("資訊: ", wordList)
+
+		correctText=""
+		for obj in wordList:
+			correctText+=obj
+		outputToNP(app,correctText)
+
+	else:
+		print("沒聽到 :<")
 
